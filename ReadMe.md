@@ -3,7 +3,7 @@
 [Github Pages](https://pages.github.com) provide a simple way to make
 websites using Markdown and git.
 
-This is a minimal tutorial to get started.
+This is a minimal tutorial to get it started.
 
 View the thing [here](https://kbroman.org/simple_site).
 
